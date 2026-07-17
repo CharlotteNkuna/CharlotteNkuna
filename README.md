@@ -45,11 +45,10 @@ A modern recipe management web application built with Angular. The application a
 
 ## 📈 GitHub Stats
 
-![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlotteNkuna&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlotteNkuna&layout=compact&theme=tokyonight)
+Javascript, Java, Python, Css, HTML, Typescript
 
 ## 📫 Connect with Me
 
