@@ -114,6 +114,12 @@ A modern recipe management application built with Angular where users can browse
 
 **Tech Stack:** Angular • TypeScript • HTML • CSS
 
+<p>
+  <a href="https://my-recipe-book-liard.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-8A2BE2?style=for-the-badge"/>
+  </a>
+</p>
+
 ---
 
 ### 📌 Employee Payroll System
