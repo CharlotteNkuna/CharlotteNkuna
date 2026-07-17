@@ -116,7 +116,7 @@ A modern recipe management application built with Angular where users can browse
 
 <p>
   <a href="https://my-recipe-book-liard.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-8A2BE2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge"/>
   </a>
 </p>
 
@@ -167,7 +167,7 @@ A productivity application that enables users to create, update, complete, filte
   </a>
 
   <a href="mailto:cnkuna920@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-v?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
