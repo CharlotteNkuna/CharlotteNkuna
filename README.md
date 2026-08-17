@@ -293,11 +293,6 @@ The application uses Local Storage to persist data and demonstrates practical Ja
 # GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CharlotteNkuna&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CharlotteNkuna&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlotteNkuna&theme=tokyonight&hide_border=true"/>
 </p>
 
